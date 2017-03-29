@@ -1,0 +1,8 @@
+C:\Users\Student\Downloads\ori-2017-e2-master\vezbe\v1-Pretrage (osnovno)\PretrageOsnovno\PretrageOsnovno\bin\Debug\Graphs\Graph1.txt
+C:\Users\Student\Downloads\ori-2017-e2-master\vezbe\v1-Pretrage (osnovno)\PretrageOsnovno\PretrageOsnovno\bin\Debug\Graphs\Graph2.txt
+C:\Users\Student\Downloads\ori-2017-e2-master\vezbe\v1-Pretrage (osnovno)\PretrageOsnovno\PretrageOsnovno\bin\Debug\Graphs\GraphDodatno.txt
+C:\Users\Student\Downloads\ori-2017-e2-master\vezbe\v1-Pretrage (osnovno)\PretrageOsnovno\PretrageOsnovno\bin\Debug\PretrageOsnovno.exe
+C:\Users\Student\Downloads\ori-2017-e2-master\vezbe\v1-Pretrage (osnovno)\PretrageOsnovno\PretrageOsnovno\bin\Debug\PretrageOsnovno.pdb
+C:\Users\Student\Downloads\ori-2017-e2-master\vezbe\v1-Pretrage (osnovno)\PretrageOsnovno\PretrageOsnovno\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Downloads\ori-2017-e2-master\vezbe\v1-Pretrage (osnovno)\PretrageOsnovno\PretrageOsnovno\obj\x86\Debug\PretrageOsnovno.exe
+C:\Users\Student\Downloads\ori-2017-e2-master\vezbe\v1-Pretrage (osnovno)\PretrageOsnovno\PretrageOsnovno\obj\x86\Debug\PretrageOsnovno.pdb
